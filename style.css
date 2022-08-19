@@ -4,3 +4,6 @@ h1{
 h3{
     background-color: rgba(0, 255, 0, 0.705);
 }
+.carouselExampleControls{
+    align-items: center;
+}
